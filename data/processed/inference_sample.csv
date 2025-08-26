@@ -1,0 +1,6 @@
+acousticness,danceability,energy,instrumentalness,liveness,speechiness,valence,tempo,loudness,dance_energy,valence_acoustic,loudness_norm,decade_1960s,decade_1970s,decade_1980s,decade_1990s,decade_2000s,decade_2010s
+0.0606,0.531,0.626,0.0,0.0767,0.0452,0.746,88.236,-13.371,0.332406,0.0452076,0.6770571919165236,False,False,True,False,False,False
+0.323,0.75,0.794,0.0271,0.0348,0.0451,0.875,110.194,-10.795,0.5955,0.282625,0.7256637168141593,True,False,False,False,False,False
+0.0306,0.635,0.831,0.0,0.235,0.0655,0.811,132.951,-4.418,0.527685,0.0248166,0.845991282525426,False,False,False,False,False,True
+0.393,0.676,0.73,0.125,0.136,0.0296,0.664,104.001,-10.381,0.49348,0.260952,0.7334754797441364,False,False,False,False,True,False
+0.121,0.424,0.446,1.89e-06,0.0921,0.0261,0.354,139.701,-8.526,0.189104,0.042834,0.7684774609883579,False,False,False,True,False,False
