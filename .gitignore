@@ -4,3 +4,7 @@ models/
 *.h5
 *.pt
 *.ckpt
+
+# macOS
+.DS_Store
+**/.DS_Store
